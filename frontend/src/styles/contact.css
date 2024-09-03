@@ -1,0 +1,8 @@
+.contact-box {
+  padding: auto;
+  box-shadow: 2rem 2rem 1.5rem rgb(129, 185, 129);
+}
+
+.screen {
+  min-height: 92vh;
+}
