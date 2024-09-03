@@ -8,7 +8,7 @@ import { ChakraProvider } from "@chakra-ui/react";
 
 // export const server = "https://notify-backend-0k4u.onrender.com/api/v1";
 // export const server = "https://notify-backend-git-main-anirudhs-projects-92ea9cec.vercel.app/api/v1";
-export const server = "http://localhost:7000/api/v1";
+export const server = "https://notify-backend-a0ua.onrender.com/api/v1";
 
 export const Context = createContext({ isAuthenticated: false });
 
